@@ -1,0 +1,241 @@
+id,level,path,gt,font
+0,0,data/000_saltpepper_0.png,"Хоче втішити: ""ось поберетесь"",",arial.ttf
+0,1,data/000_saltpepper_1.png,"Хоче втішити: ""ось поберетесь"",",arial.ttf
+0,2,data/000_saltpepper_2.png,"Хоче втішити: ""ось поберетесь"",",arial.ttf
+0,5,data/000_saltpepper_5.png,"Хоче втішити: ""ось поберетесь"",",arial.ttf
+0,10,data/000_saltpepper_10.png,"Хоче втішити: ""ось поберетесь"",",arial.ttf
+0,15,data/000_saltpepper_15.png,"Хоче втішити: ""ось поберетесь"",",arial.ttf
+1,0,data/001_saltpepper_0.png,"Он вечеря вже готова ще одколи, а вас нікого нема!",times.ttf
+1,1,data/001_saltpepper_1.png,"Он вечеря вже готова ще одколи, а вас нікого нема!",times.ttf
+1,2,data/001_saltpepper_2.png,"Он вечеря вже готова ще одколи, а вас нікого нема!",times.ttf
+1,5,data/001_saltpepper_5.png,"Он вечеря вже готова ще одколи, а вас нікого нема!",times.ttf
+1,10,data/001_saltpepper_10.png,"Он вечеря вже готова ще одколи, а вас нікого нема!",times.ttf
+1,15,data/001_saltpepper_15.png,"Он вечеря вже готова ще одколи, а вас нікого нема!",times.ttf
+2,0,data/002_saltpepper_0.png,"що весь рід їх звівся,",verdana.ttf
+2,1,data/002_saltpepper_1.png,"що весь рід їх звівся,",verdana.ttf
+2,2,data/002_saltpepper_2.png,"що весь рід їх звівся,",verdana.ttf
+2,5,data/002_saltpepper_5.png,"що весь рід їх звівся,",verdana.ttf
+2,10,data/002_saltpepper_10.png,"що весь рід їх звівся,",verdana.ttf
+2,15,data/002_saltpepper_15.png,"що весь рід їх звівся,",verdana.ttf
+3,0,data/003_saltpepper_0.png,"Рад би я, — каже, — небо прихилити, та не хилиться!",calibri.ttf
+3,1,data/003_saltpepper_1.png,"Рад би я, — каже, — небо прихилити, та не хилиться!",calibri.ttf
+3,2,data/003_saltpepper_2.png,"Рад би я, — каже, — небо прихилити, та не хилиться!",calibri.ttf
+3,5,data/003_saltpepper_5.png,"Рад би я, — каже, — небо прихилити, та не хилиться!",calibri.ttf
+3,10,data/003_saltpepper_10.png,"Рад би я, — каже, — небо прихилити, та не хилиться!",calibri.ttf
+3,15,data/003_saltpepper_15.png,"Рад би я, — каже, — небо прихилити, та не хилиться!",calibri.ttf
+4,0,data/004_saltpepper_0.png,"І плаче, і радіє, і розпитує, і частує: ""Може, тобі того з'їсти?",arial.ttf
+4,1,data/004_saltpepper_1.png,"І плаче, і радіє, і розпитує, і частує: ""Може, тобі того з'їсти?",arial.ttf
+4,2,data/004_saltpepper_2.png,"І плаче, і радіє, і розпитує, і частує: ""Може, тобі того з'їсти?",arial.ttf
+4,5,data/004_saltpepper_5.png,"І плаче, і радіє, і розпитує, і частує: ""Може, тобі того з'їсти?",arial.ttf
+4,10,data/004_saltpepper_10.png,"І плаче, і радіє, і розпитує, і частує: ""Може, тобі того з'їсти?",arial.ttf
+4,15,data/004_saltpepper_15.png,"І плаче, і радіє, і розпитує, і частує: ""Може, тобі того з'їсти?",arial.ttf
+5,0,data/005_saltpepper_0.png,Бабуся стоїть од порога.,times.ttf
+5,1,data/005_saltpepper_1.png,Бабуся стоїть од порога.,times.ttf
+5,2,data/005_saltpepper_2.png,Бабуся стоїть од порога.,times.ttf
+5,5,data/005_saltpepper_5.png,Бабуся стоїть од порога.,times.ttf
+5,10,data/005_saltpepper_10.png,Бабуся стоїть од порога.,times.ttf
+5,15,data/005_saltpepper_15.png,Бабуся стоїть од порога.,times.ttf
+6,0,data/006_saltpepper_0.png,"як він Устину обідом нагодував,..",verdana.ttf
+6,1,data/006_saltpepper_1.png,"як він Устину обідом нагодував,..",verdana.ttf
+6,2,data/006_saltpepper_2.png,"як він Устину обідом нагодував,..",verdana.ttf
+6,5,data/006_saltpepper_5.png,"як він Устину обідом нагодував,..",verdana.ttf
+6,10,data/006_saltpepper_10.png,"як він Устину обідом нагодував,..",verdana.ttf
+6,15,data/006_saltpepper_15.png,"як він Устину обідом нагодував,..",verdana.ttf
+7,0,data/007_saltpepper_0.png,"А мені — чужа сторона,",calibri.ttf
+7,1,data/007_saltpepper_1.png,"А мені — чужа сторона,",calibri.ttf
+7,2,data/007_saltpepper_2.png,"А мені — чужа сторона,",calibri.ttf
+7,5,data/007_saltpepper_5.png,"А мені — чужа сторона,",calibri.ttf
+7,10,data/007_saltpepper_10.png,"А мені — чужа сторона,",calibri.ttf
+7,15,data/007_saltpepper_15.png,"А мені — чужа сторона,",calibri.ttf
+8,0,data/008_saltpepper_0.png,Хазяйці і всім нехай бог помагає!,arial.ttf
+8,1,data/008_saltpepper_1.png,Хазяйці і всім нехай бог помагає!,arial.ttf
+8,2,data/008_saltpepper_2.png,Хазяйці і всім нехай бог помагає!,arial.ttf
+8,5,data/008_saltpepper_5.png,Хазяйці і всім нехай бог помагає!,arial.ttf
+8,10,data/008_saltpepper_10.png,Хазяйці і всім нехай бог помагає!,arial.ttf
+8,15,data/008_saltpepper_15.png,Хазяйці і всім нехай бог помагає!,arial.ttf
+9,0,data/009_saltpepper_0.png,"Заки я схаменулась, його вже й немає.",times.ttf
+9,1,data/009_saltpepper_1.png,"Заки я схаменулась, його вже й немає.",times.ttf
+9,2,data/009_saltpepper_2.png,"Заки я схаменулась, його вже й немає.",times.ttf
+9,5,data/009_saltpepper_5.png,"Заки я схаменулась, його вже й немає.",times.ttf
+9,10,data/009_saltpepper_10.png,"Заки я схаменулась, його вже й немає.",times.ttf
+9,15,data/009_saltpepper_15.png,"Заки я схаменулась, його вже й немає.",times.ttf
+10,0,data/010_saltpepper_0.png,"Просимо на вечерю, зозулько!",verdana.ttf
+10,1,data/010_saltpepper_1.png,"Просимо на вечерю, зозулько!",verdana.ttf
+10,2,data/010_saltpepper_2.png,"Просимо на вечерю, зозулько!",verdana.ttf
+10,5,data/010_saltpepper_5.png,"Просимо на вечерю, зозулько!",verdana.ttf
+10,10,data/010_saltpepper_10.png,"Просимо на вечерю, зозулько!",verdana.ttf
+10,15,data/010_saltpepper_15.png,"Просимо на вечерю, зозулько!",verdana.ttf
+11,0,data/011_saltpepper_0.png,"а нам певно одно: кому,",calibri.ttf
+11,1,data/011_saltpepper_1.png,"а нам певно одно: кому,",calibri.ttf
+11,2,data/011_saltpepper_2.png,"а нам певно одно: кому,",calibri.ttf
+11,5,data/011_saltpepper_5.png,"а нам певно одно: кому,",calibri.ttf
+11,10,data/011_saltpepper_10.png,"а нам певно одно: кому,",calibri.ttf
+11,15,data/011_saltpepper_15.png,"а нам певно одно: кому,",calibri.ttf
+12,0,data/012_saltpepper_0.png,"Сама і хлипає, і кричить, і клене, що вже і пан розлютувався.",arial.ttf
+12,1,data/012_saltpepper_1.png,"Сама і хлипає, і кричить, і клене, що вже і пан розлютувався.",arial.ttf
+12,2,data/012_saltpepper_2.png,"Сама і хлипає, і кричить, і клене, що вже і пан розлютувався.",arial.ttf
+12,5,data/012_saltpepper_5.png,"Сама і хлипає, і кричить, і клене, що вже і пан розлютувався.",arial.ttf
+12,10,data/012_saltpepper_10.png,"Сама і хлипає, і кричить, і клене, що вже і пан розлютувався.",arial.ttf
+12,15,data/012_saltpepper_15.png,"Сама і хлипає, і кричить, і клене, що вже і пан розлютувався.",arial.ttf
+13,0,data/013_saltpepper_0.png,"що він їй подарував,",times.ttf
+13,1,data/013_saltpepper_1.png,"що він їй подарував,",times.ttf
+13,2,data/013_saltpepper_2.png,"що він їй подарував,",times.ttf
+13,5,data/013_saltpepper_5.png,"що він їй подарував,",times.ttf
+13,10,data/013_saltpepper_10.png,"що він їй подарував,",times.ttf
+13,15,data/013_saltpepper_15.png,"що він їй подарував,",times.ttf
+14,0,data/014_saltpepper_0.png,"а кого бровами: одного на здоров'я любенько питає; другому жалиться,",verdana.ttf
+14,1,data/014_saltpepper_1.png,"а кого бровами: одного на здоров'я любенько питає; другому жалиться,",verdana.ttf
+14,2,data/014_saltpepper_2.png,"а кого бровами: одного на здоров'я любенько питає; другому жалиться,",verdana.ttf
+14,5,data/014_saltpepper_5.png,"а кого бровами: одного на здоров'я любенько питає; другому жалиться,",verdana.ttf
+14,10,data/014_saltpepper_10.png,"а кого бровами: одного на здоров'я любенько питає; другому жалиться,",verdana.ttf
+14,15,data/014_saltpepper_15.png,"а кого бровами: одного на здоров'я любенько питає; другому жалиться,",verdana.ttf
+15,0,data/015_saltpepper_0.png,"День у день наїздять до нас,",calibri.ttf
+15,1,data/015_saltpepper_1.png,"День у день наїздять до нас,",calibri.ttf
+15,2,data/015_saltpepper_2.png,"День у день наїздять до нас,",calibri.ttf
+15,5,data/015_saltpepper_5.png,"День у день наїздять до нас,",calibri.ttf
+15,10,data/015_saltpepper_10.png,"День у день наїздять до нас,",calibri.ttf
+15,15,data/015_saltpepper_15.png,"День у день наїздять до нас,",calibri.ttf
+16,0,data/016_saltpepper_0.png,Не така в мене вдача!,arial.ttf
+16,1,data/016_saltpepper_1.png,Не така в мене вдача!,arial.ttf
+16,2,data/016_saltpepper_2.png,Не така в мене вдача!,arial.ttf
+16,5,data/016_saltpepper_5.png,Не така в мене вдача!,arial.ttf
+16,10,data/016_saltpepper_10.png,Не така в мене вдача!,arial.ttf
+16,15,data/016_saltpepper_15.png,Не така в мене вдача!,arial.ttf
+17,0,data/017_saltpepper_0.png,Нащо мене мати на світ породила!,times.ttf
+17,1,data/017_saltpepper_1.png,Нащо мене мати на світ породила!,times.ttf
+17,2,data/017_saltpepper_2.png,Нащо мене мати на світ породила!,times.ttf
+17,5,data/017_saltpepper_5.png,Нащо мене мати на світ породила!,times.ttf
+17,10,data/017_saltpepper_10.png,Нащо мене мати на світ породила!,times.ttf
+17,15,data/017_saltpepper_15.png,Нащо мене мати на світ породила!,times.ttf
+18,0,data/018_saltpepper_0.png,"Чи ти його поважаєш, чи він тебе слухає?",verdana.ttf
+18,1,data/018_saltpepper_1.png,"Чи ти його поважаєш, чи він тебе слухає?",verdana.ttf
+18,2,data/018_saltpepper_2.png,"Чи ти його поважаєш, чи він тебе слухає?",verdana.ttf
+18,5,data/018_saltpepper_5.png,"Чи ти його поважаєш, чи він тебе слухає?",verdana.ttf
+18,10,data/018_saltpepper_10.png,"Чи ти його поважаєш, чи він тебе слухає?",verdana.ttf
+18,15,data/018_saltpepper_15.png,"Чи ти його поважаєш, чи він тебе слухає?",verdana.ttf
+19,0,data/019_saltpepper_0.png,"похапцем звінчалися,",calibri.ttf
+19,1,data/019_saltpepper_1.png,"похапцем звінчалися,",calibri.ttf
+19,2,data/019_saltpepper_2.png,"похапцем звінчалися,",calibri.ttf
+19,5,data/019_saltpepper_5.png,"похапцем звінчалися,",calibri.ttf
+19,10,data/019_saltpepper_10.png,"похапцем звінчалися,",calibri.ttf
+19,15,data/019_saltpepper_15.png,"похапцем звінчалися,",calibri.ttf
+20,0,data/020_saltpepper_0.png,"І пані моя теж мені на думку навертається: ледве у двір ступила,",arial.ttf
+20,1,data/020_saltpepper_1.png,"І пані моя теж мені на думку навертається: ледве у двір ступила,",arial.ttf
+20,2,data/020_saltpepper_2.png,"І пані моя теж мені на думку навертається: ледве у двір ступила,",arial.ttf
+20,5,data/020_saltpepper_5.png,"І пані моя теж мені на думку навертається: ледве у двір ступила,",arial.ttf
+20,10,data/020_saltpepper_10.png,"І пані моя теж мені на думку навертається: ледве у двір ступила,",arial.ttf
+20,15,data/020_saltpepper_15.png,"І пані моя теж мені на думку навертається: ледве у двір ступила,",arial.ttf
+21,0,data/021_saltpepper_0.png,"гримнув на москаля, аж той свистати перестав.",times.ttf
+21,1,data/021_saltpepper_1.png,"гримнув на москаля, аж той свистати перестав.",times.ttf
+21,2,data/021_saltpepper_2.png,"гримнув на москаля, аж той свистати перестав.",times.ttf
+21,5,data/021_saltpepper_5.png,"гримнув на москаля, аж той свистати перестав.",times.ttf
+21,10,data/021_saltpepper_10.png,"гримнув на москаля, аж той свистати перестав.",times.ttf
+21,15,data/021_saltpepper_15.png,"гримнув на москаля, аж той свистати перестав.",times.ttf
+22,0,data/022_saltpepper_0.png,ізроду нікого не скривдив.,verdana.ttf
+22,1,data/022_saltpepper_1.png,ізроду нікого не скривдив.,verdana.ttf
+22,2,data/022_saltpepper_2.png,ізроду нікого не скривдив.,verdana.ttf
+22,5,data/022_saltpepper_5.png,ізроду нікого не скривдив.,verdana.ttf
+22,10,data/022_saltpepper_10.png,ізроду нікого не скривдив.,verdana.ttf
+22,15,data/022_saltpepper_15.png,ізроду нікого не скривдив.,verdana.ttf
+23,0,data/023_saltpepper_0.png,"то все хмурніший ходить,",calibri.ttf
+23,1,data/023_saltpepper_1.png,"то все хмурніший ходить,",calibri.ttf
+23,2,data/023_saltpepper_2.png,"то все хмурніший ходить,",calibri.ttf
+23,5,data/023_saltpepper_5.png,"то все хмурніший ходить,",calibri.ttf
+23,10,data/023_saltpepper_10.png,"то все хмурніший ходить,",calibri.ttf
+23,15,data/023_saltpepper_15.png,"то все хмурніший ходить,",calibri.ttf
+24,0,data/024_saltpepper_0.png,Та коли ж я хочу пити!,arial.ttf
+24,1,data/024_saltpepper_1.png,Та коли ж я хочу пити!,arial.ttf
+24,2,data/024_saltpepper_2.png,Та коли ж я хочу пити!,arial.ttf
+24,5,data/024_saltpepper_5.png,Та коли ж я хочу пити!,arial.ttf
+24,10,data/024_saltpepper_10.png,Та коли ж я хочу пити!,arial.ttf
+24,15,data/024_saltpepper_15.png,Та коли ж я хочу пити!,arial.ttf
+25,0,data/025_saltpepper_0.png,"Бувайте здорові, в кого чорні брови!",times.ttf
+25,1,data/025_saltpepper_1.png,"Бувайте здорові, в кого чорні брови!",times.ttf
+25,2,data/025_saltpepper_2.png,"Бувайте здорові, в кого чорні брови!",times.ttf
+25,5,data/025_saltpepper_5.png,"Бувайте здорові, в кого чорні брови!",times.ttf
+25,10,data/025_saltpepper_10.png,"Бувайте здорові, в кого чорні брови!",times.ttf
+25,15,data/025_saltpepper_15.png,"Бувайте здорові, в кого чорні брови!",times.ttf
+26,0,data/026_saltpepper_0.png,Швидше мене розбирай!..,verdana.ttf
+26,1,data/026_saltpepper_1.png,Швидше мене розбирай!..,verdana.ttf
+26,2,data/026_saltpepper_2.png,Швидше мене розбирай!..,verdana.ttf
+26,5,data/026_saltpepper_5.png,Швидше мене розбирай!..,verdana.ttf
+26,10,data/026_saltpepper_10.png,Швидше мене розбирай!..,verdana.ttf
+26,15,data/026_saltpepper_15.png,Швидше мене розбирай!..,verdana.ttf
+27,0,data/027_saltpepper_0.png,"Так-то вже я радію, як розговорю його, розважу!",calibri.ttf
+27,1,data/027_saltpepper_1.png,"Так-то вже я радію, як розговорю його, розважу!",calibri.ttf
+27,2,data/027_saltpepper_2.png,"Так-то вже я радію, як розговорю його, розважу!",calibri.ttf
+27,5,data/027_saltpepper_5.png,"Так-то вже я радію, як розговорю його, розважу!",calibri.ttf
+27,10,data/027_saltpepper_10.png,"Так-то вже я радію, як розговорю його, розважу!",calibri.ttf
+27,15,data/027_saltpepper_15.png,"Так-то вже я радію, як розговорю його, розважу!",calibri.ttf
+28,0,data/028_saltpepper_0.png,Та й веде її до нас.,arial.ttf
+28,1,data/028_saltpepper_1.png,Та й веде її до нас.,arial.ttf
+28,2,data/028_saltpepper_2.png,Та й веде її до нас.,arial.ttf
+28,5,data/028_saltpepper_5.png,Та й веде її до нас.,arial.ttf
+28,10,data/028_saltpepper_10.png,Та й веде її до нас.,arial.ttf
+28,15,data/028_saltpepper_15.png,Та й веде її до нас.,arial.ttf
+29,0,data/029_saltpepper_0.png,Бог для всіх родить.,times.ttf
+29,1,data/029_saltpepper_1.png,Бог для всіх родить.,times.ttf
+29,2,data/029_saltpepper_2.png,Бог для всіх родить.,times.ttf
+29,5,data/029_saltpepper_5.png,Бог для всіх родить.,times.ttf
+29,10,data/029_saltpepper_10.png,Бог для всіх родить.,times.ttf
+29,15,data/029_saltpepper_15.png,Бог для всіх родить.,times.ttf
+30,0,data/030_saltpepper_0.png,Пан тоді зирк на мене!,verdana.ttf
+30,1,data/030_saltpepper_1.png,Пан тоді зирк на мене!,verdana.ttf
+30,2,data/030_saltpepper_2.png,Пан тоді зирк на мене!,verdana.ttf
+30,5,data/030_saltpepper_5.png,Пан тоді зирк на мене!,verdana.ttf
+30,10,data/030_saltpepper_10.png,Пан тоді зирк на мене!,verdana.ttf
+30,15,data/030_saltpepper_15.png,Пан тоді зирк на мене!,verdana.ttf
+31,0,data/031_saltpepper_0.png,Хіба нікому в вас діла робити?,calibri.ttf
+31,1,data/031_saltpepper_1.png,Хіба нікому в вас діла робити?,calibri.ttf
+31,2,data/031_saltpepper_2.png,Хіба нікому в вас діла робити?,calibri.ttf
+31,5,data/031_saltpepper_5.png,Хіба нікому в вас діла робити?,calibri.ttf
+31,10,data/031_saltpepper_10.png,Хіба нікому в вас діла робити?,calibri.ttf
+31,15,data/031_saltpepper_15.png,Хіба нікому в вас діла робити?,calibri.ttf
+32,0,data/032_saltpepper_0.png,"і сорочка на мені біла,",arial.ttf
+32,1,data/032_saltpepper_1.png,"і сорочка на мені біла,",arial.ttf
+32,2,data/032_saltpepper_2.png,"і сорочка на мені біла,",arial.ttf
+32,5,data/032_saltpepper_5.png,"і сорочка на мені біла,",arial.ttf
+32,10,data/032_saltpepper_10.png,"і сорочка на мені біла,",arial.ttf
+32,15,data/032_saltpepper_15.png,"і сорочка на мені біла,",arial.ttf
+33,0,data/033_saltpepper_0.png,Пані тобі в око впала?..,times.ttf
+33,1,data/033_saltpepper_1.png,Пані тобі в око впала?..,times.ttf
+33,2,data/033_saltpepper_2.png,Пані тобі в око впала?..,times.ttf
+33,5,data/033_saltpepper_5.png,Пані тобі в око впала?..,times.ttf
+33,10,data/033_saltpepper_10.png,Пані тобі в око впала?..,times.ttf
+33,15,data/033_saltpepper_15.png,Пані тобі в око впала?..,times.ttf
+34,0,data/034_saltpepper_0.png,"Не то щоб робити, вже й по світу ходить не здужає.",verdana.ttf
+34,1,data/034_saltpepper_1.png,"Не то щоб робити, вже й по світу ходить не здужає.",verdana.ttf
+34,2,data/034_saltpepper_2.png,"Не то щоб робити, вже й по світу ходить не здужає.",verdana.ttf
+34,5,data/034_saltpepper_5.png,"Не то щоб робити, вже й по світу ходить не здужає.",verdana.ttf
+34,10,data/034_saltpepper_10.png,"Не то щоб робити, вже й по світу ходить не здужає.",verdana.ttf
+34,15,data/034_saltpepper_15.png,"Не то щоб робити, вже й по світу ходить не здужає.",verdana.ttf
+35,0,data/035_saltpepper_0.png,"тут і вмру, моя дитино.",calibri.ttf
+35,1,data/035_saltpepper_1.png,"тут і вмру, моя дитино.",calibri.ttf
+35,2,data/035_saltpepper_2.png,"тут і вмру, моя дитино.",calibri.ttf
+35,5,data/035_saltpepper_5.png,"тут і вмру, моя дитино.",calibri.ttf
+35,10,data/035_saltpepper_10.png,"тут і вмру, моя дитино.",calibri.ttf
+35,15,data/035_saltpepper_15.png,"тут і вмру, моя дитино.",calibri.ttf
+36,0,data/036_saltpepper_0.png,Отеє знов усім турбуєшся!,arial.ttf
+36,1,data/036_saltpepper_1.png,Отеє знов усім турбуєшся!,arial.ttf
+36,2,data/036_saltpepper_2.png,Отеє знов усім турбуєшся!,arial.ttf
+36,5,data/036_saltpepper_5.png,Отеє знов усім турбуєшся!,arial.ttf
+36,10,data/036_saltpepper_10.png,Отеє знов усім турбуєшся!,arial.ttf
+36,15,data/036_saltpepper_15.png,Отеє знов усім турбуєшся!,arial.ttf
+37,0,data/037_saltpepper_0.png,"Овва, який же баский!",times.ttf
+37,1,data/037_saltpepper_1.png,"Овва, який же баский!",times.ttf
+37,2,data/037_saltpepper_2.png,"Овва, який же баский!",times.ttf
+37,5,data/037_saltpepper_5.png,"Овва, який же баский!",times.ttf
+37,10,data/037_saltpepper_10.png,"Овва, який же баский!",times.ttf
+37,15,data/037_saltpepper_15.png,"Овва, який же баский!",times.ttf
+38,0,data/038_saltpepper_0.png,"перехопила панночка; сама скривилась і перехилилась набік,",verdana.ttf
+38,1,data/038_saltpepper_1.png,"перехопила панночка; сама скривилась і перехилилась набік,",verdana.ttf
+38,2,data/038_saltpepper_2.png,"перехопила панночка; сама скривилась і перехилилась набік,",verdana.ttf
+38,5,data/038_saltpepper_5.png,"перехопила панночка; сама скривилась і перехилилась набік,",verdana.ttf
+38,10,data/038_saltpepper_10.png,"перехопила панночка; сама скривилась і перехилилась набік,",verdana.ttf
+38,15,data/038_saltpepper_15.png,"перехопила панночка; сама скривилась і перехилилась набік,",verdana.ttf
+39,0,data/039_saltpepper_0.png,Та не дуже далеко за містом.,calibri.ttf
+39,1,data/039_saltpepper_1.png,Та не дуже далеко за містом.,calibri.ttf
+39,2,data/039_saltpepper_2.png,Та не дуже далеко за містом.,calibri.ttf
+39,5,data/039_saltpepper_5.png,Та не дуже далеко за містом.,calibri.ttf
+39,10,data/039_saltpepper_10.png,Та не дуже далеко за містом.,calibri.ttf
+39,15,data/039_saltpepper_15.png,Та не дуже далеко за містом.,calibri.ttf
