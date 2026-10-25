@@ -1,0 +1,121 @@
+split,idx,path,gt
+test,274,data/sroie/sroie_test_00274.png,CASHIER#:
+test,421,data/sroie/sroie_test_00421.png,TAX INVOICE
+test,451,data/sroie/sroie_test_00451.png,LIGHTROOM GALLERY SDN BHD
+test,882,data/sroie/sroie_test_00882.png,%
+test,886,data/sroie/sroie_test_00886.png,(RM)
+test,1100,data/sroie/sroie_test_01100.png,YELLOW LOTION 30 ML
+test,1745,data/sroie/sroie_test_01745.png,5
+test,1866,data/sroie/sroie_test_01866.png,US GREEN APPLE (175) 10S
+test,1985,data/sroie/sroie_test_01985.png,1
+test,2097,data/sroie/sroie_test_02097.png,1.70
+test,2133,data/sroie/sroie_test_02133.png,PRICE
+test,2280,data/sroie/sroie_test_02280.png,AMOUNT (RM)
+test,2338,data/sroie/sroie_test_02338.png,GOODS SOLD ARE NOT REFUNDABLE FOR CASH.
+test,2400,data/sroie/sroie_test_02400.png,QTY
+test,2496,data/sroie/sroie_test_02496.png,NO.: 142507
+test,2643,data/sroie/sroie_test_02643.png,SR
+test,2726,data/sroie/sroie_test_02726.png,TAX/AMT
+test,2747,data/sroie/sroie_test_02747.png,QTY
+test,2895,data/sroie/sroie_test_02895.png,S
+test,2990,data/sroie/sroie_test_02990.png,TOTAL SALES INCLUSIVE GST @6.00%:
+test,3936,data/sroie/sroie_test_03936.png,SALESPERSON :
+test,4326,data/sroie/sroie_test_04326.png,11
+test,4611,data/sroie/sroie_test_04611.png,DESCRIPTION
+test,5109,data/sroie/sroie_test_05109.png,34.00
+test,5432,data/sroie/sroie_test_05432.png,S/PRICE
+test,5656,data/sroie/sroie_test_05656.png,S/PRICE
+test,5717,data/sroie/sroie_test_05717.png,NO 1 JALAN AMAN 2
+test,5917,data/sroie/sroie_test_05917.png,TOTAL SALES (INCLUSIVE OF GST) :
+test,5960,data/sroie/sroie_test_05960.png,1
+test,5994,data/sroie/sroie_test_05994.png,QTY
+test,6067,data/sroie/sroie_test_06067.png,"FOR ANY ENQUIRY, PLEASE E-MAIL US:"
+test,6116,data/sroie/sroie_test_06116.png,RM2.50
+test,6267,data/sroie/sroie_test_06267.png,GST SUMMARY:
+test,6286,data/sroie/sroie_test_06286.png,(GST REG NO : 002069438464)
+test,6309,data/sroie/sroie_test_06309.png,SR
+test,6379,data/sroie/sroie_test_06379.png,QUANTITY : 6 UNITS
+test,6555,data/sroie/sroie_test_06555.png,TAX INVOICE
+test,6605,data/sroie/sroie_test_06605.png,(IOI PUCHONG)
+test,6682,data/sroie/sroie_test_06682.png,21-03-18 12:27 SHO1 ZJ86
+test,6810,data/sroie/sroie_test_06810.png,CHANGE
+test,7311,data/sroie/sroie_test_07311.png,SR
+test,7434,data/sroie/sroie_test_07434.png,1
+test,7538,data/sroie/sroie_test_07538.png,{41005926} VISA
+test,7672,data/sroie/sroie_test_07672.png,CASH
+test,7781,data/sroie/sroie_test_07781.png,TAX (RM)
+test,8270,data/sroie/sroie_test_08270.png,4.80
+test,8376,data/sroie/sroie_test_08376.png,TAX
+test,8378,data/sroie/sroie_test_08378.png,ROUNDING
+test,8999,data/sroie/sroie_test_08999.png,ALPHA LIPID LIFE LINE
+test,9214,data/sroie/sroie_test_09214.png,KING'S CONFECTIONERY S/B 273500-U (KJ1)
+test,9276,data/sroie/sroie_test_09276.png,PAY
+test,9464,data/sroie/sroie_test_09464.png,"41200 KLANG, SELANGOR"
+test,9471,data/sroie/sroie_test_09471.png,1 X
+test,9487,data/sroie/sroie_test_09487.png,AMOUNT(RM)
+test,9512,data/sroie/sroie_test_09512.png,ROUNDING RM
+test,9558,data/sroie/sroie_test_09558.png,UNIHAKKA INTERNATIONAL SDN BHD
+test,9607,data/sroie/sroie_test_09607.png,(867388-U)
+test,9796,data/sroie/sroie_test_09796.png,$1.30
+test,10115,data/sroie/sroie_test_10115.png,AMOUNT
+test,10170,data/sroie/sroie_test_10170.png,CNO
+test,10234,data/sroie/sroie_test_10234.png,STAFF:
+test,10394,data/sroie/sroie_test_10394.png,23.43
+test,10442,data/sroie/sroie_test_10442.png,CUSTOMER'S COPY
+test,10489,data/sroie/sroie_test_10489.png,5.76
+test,10590,data/sroie/sroie_test_10590.png,22.33
+test,10816,data/sroie/sroie_test_10816.png,GST.
+test,11165,data/sroie/sroie_test_11165.png,TWG T'MISU
+test,11212,data/sroie/sroie_test_11212.png,"JALAN SS 15/4B,"
+test,11361,data/sroie/sroie_test_11361.png,"40300 SHAH ALAM, SELANGOR."
+test,11416,data/sroie/sroie_test_11416.png,MUFFIN C&W
+test,11591,data/sroie/sroie_test_11591.png,23.02
+test,11806,data/sroie/sroie_test_11806.png,0.72
+test,11836,data/sroie/sroie_test_11836.png,"40300 SHAH ALAM, SELANGOR."
+test,11912,data/sroie/sroie_test_11912.png,"INPUT TAX CLAIMS, ON THE BASIC OF THE"
+test,11913,data/sroie/sroie_test_11913.png,ADJUSTMENTS SHOWN IN THIS TAX INVOICE /
+test,11988,data/sroie/sroie_test_11988.png,FAX:03- 55423213
+test,12537,data/sroie/sroie_test_12537.png,0
+test,12689,data/sroie/sroie_test_12689.png,"INPUT TAX CLAIMS, ON THE BASIC OF THE"
+test,12741,data/sroie/sroie_test_12741.png,33.84
+test,12859,data/sroie/sroie_test_12859.png,: 401
+test,12974,data/sroie/sroie_test_12974.png,PLEASE COME AGAIN
+test,13033,data/sroie/sroie_test_13033.png,KEDAI UBAT & RUNCIT HONG
+test,13138,data/sroie/sroie_test_13138.png,(1157059-U)
+test,13499,data/sroie/sroie_test_13499.png,52100 KUALA LUMPUR.
+test,13511,data/sroie/sroie_test_13511.png,1
+test,13540,data/sroie/sroie_test_13540.png,: 02/01/16 11:41:47 AM
+test,13681,data/sroie/sroie_test_13681.png,52100 KUALA LUMPUR
+test,13736,data/sroie/sroie_test_13736.png,1
+test,14082,data/sroie/sroie_test_14082.png,SUBTOTAL
+test,14235,data/sroie/sroie_test_14235.png,RM34.87
+test,14549,data/sroie/sroie_test_14549.png,CASHIER
+test,14704,data/sroie/sroie_test_14704.png,4.40
+test,14717,data/sroie/sroie_test_14717.png,0.00
+test,14737,data/sroie/sroie_test_14737.png,224
+test,14883,data/sroie/sroie_test_14883.png,GST @6%: $0.69
+test,14902,data/sroie/sroie_test_14902.png,$0.50
+test,15020,data/sroie/sroie_test_15020.png,SUB-TOTAL :
+test,15102,data/sroie/sroie_test_15102.png,"KAWASAN PERINDUSTRIAN BALAKONG,"
+test,15198,data/sroie/sroie_test_15198.png,18.77
+test,15420,data/sroie/sroie_test_15420.png,GST SUMMARY
+test,15509,data/sroie/sroie_test_15509.png,"LEVEL 6, BANGUNAN TH, DAMANSARA UPTOWN3"
+test,15860,data/sroie/sroie_test_15860.png,THANK YOU FOR YOUR PATRONAGE
+test,15998,data/sroie/sroie_test_15998.png,THANK YOU FOR YOUR PATRONAGE
+test,16331,data/sroie/sroie_test_16331.png,43300 SELANGOR
+test,16423,data/sroie/sroie_test_16423.png,NASI KANDAR
+test,16743,data/sroie/sroie_test_16743.png,TOTAL PAID
+test,16793,data/sroie/sroie_test_16793.png,000002003191
+test,17065,data/sroie/sroie_test_17065.png,"12, JALAN TAMPOI 7/4,KAWASAN PERINDUSTRIAN"
+test,17109,data/sroie/sroie_test_17109.png,BAR WANG RICE@PERMAS JAYA
+test,17197,data/sroie/sroie_test_17197.png,LEMON TEA
+test,17238,data/sroie/sroie_test_17238.png,:
+test,17254,data/sroie/sroie_test_17254.png,TOTAL SALES INCL GST
+test,17256,data/sroie/sroie_test_17256.png,TOTAL AFTER ADJ INCL GST
+test,17596,data/sroie/sroie_test_17596.png,ACC NO.: 403149******8937
+test,17957,data/sroie/sroie_test_17957.png,QTY
+test,18176,data/sroie/sroie_test_18176.png,TABLE
+test,18180,data/sroie/sroie_test_18180.png,CASHIER: JAM01
+test,18231,data/sroie/sroie_test_18231.png,36.00
+test,18393,data/sroie/sroie_test_18393.png,: 27-06-2018 12:15:15
+test,18633,data/sroie/sroie_test_18633.png,100.00
