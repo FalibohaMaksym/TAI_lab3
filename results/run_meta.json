@@ -1,0 +1,76 @@
+{
+  "student": "Faliboha Maksym",
+  "variant": 15,
+  "seed": 15981,
+  "factor": "saltpepper",
+  "levels": [
+    0,
+    1,
+    2,
+    5,
+    10,
+    15
+  ],
+  "python": "3.13.7",
+  "easyocr": "1.7.2",
+  "paddleocr": "3.7.0",
+  "paddlepaddle": "3.3.1",
+  "opencv": "4.10.0",
+  "numpy": "2.3.5",
+  "easyocr_langs": {
+    "synthetic/own": [
+      "uk",
+      "en"
+    ],
+    "sroie": [
+      "en"
+    ]
+  },
+  "paddle_lang": {
+    "synthetic/own": "uk",
+    "sroie": "en"
+  },
+  "paddle_args": {
+    "use_doc_orientation_classify": false,
+    "use_doc_unwarping": false,
+    "use_textline_orientation": false,
+    "enable_mkldnn": false
+  },
+  "paddle_page_args": {
+    "use_doc_orientation_classify": false,
+    "use_doc_unwarping": false,
+    "use_textline_orientation": false,
+    "enable_mkldnn": false,
+    "text_det_limit_type": "max",
+    "text_det_limit_side_len": 1280
+  },
+  "configs": {
+    "raw": [],
+    "median3": [
+      "median3"
+    ],
+    "median5": [
+      "median5"
+    ],
+    "nlmeans": [
+      "nlmeans"
+    ],
+    "median3_then_up": [
+      "median3",
+      "upscale"
+    ],
+    "up_then_median3": [
+      "upscale",
+      "median3"
+    ]
+  },
+  "nlmeans_params": {
+    "h": 20,
+    "templateWindowSize": 7,
+    "searchWindowSize": 21
+  },
+  "extra_configs_levels": [
+    5
+  ],
+  "limit": 0
+}

@@ -1,0 +1,7 @@
+engine,filter,stops_helping_from_level,gain_0,gain_1,gain_2,gain_5,gain_10,gain_15
+EasyOCR,median3,,-0.068,-0.058,-0.053,-0.014,0.06,0.193
+EasyOCR,median5,0.0,-0.439,-0.437,-0.439,-0.395,-0.321,-0.206
+EasyOCR,nlmeans,15.0,0.004,0.018,0.004,0.02,0.029,-0.009
+PaddleOCR,median3,,-0.009,0.017,0.023,0.015,0.025,0.032
+PaddleOCR,median5,0.0,-0.153,-0.135,-0.134,-0.133,-0.162,-0.163
+PaddleOCR,nlmeans,10.0,0.0,0.017,0.014,0.002,-0.001,-0.001

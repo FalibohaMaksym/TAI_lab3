@@ -1,0 +1,7 @@
+group,engine,cer_case_sensitive,cer_ignore_case
+own,EasyOCR,0.662,0.654
+own,PaddleOCR,0.517,0.507
+sroie,EasyOCR,0.478,0.298
+sroie,PaddleOCR,0.278,0.08
+synthetic,EasyOCR,0.175,0.162
+synthetic,PaddleOCR,0.041,0.041
