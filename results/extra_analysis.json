@@ -1,0 +1,68 @@
+{
+  "q3": {
+    "level_max_gap": 15,
+    "mean_diff_by_level": {
+      "0": 0.063,
+      "1": 0.054,
+      "2": 0.044,
+      "5": 0.094,
+      "10": 0.158,
+      "15": 0.313
+    },
+    "n": 40,
+    "diff_EasyOCR_minus_PaddleOCR": 0.313,
+    "ci95": [
+      0.229,
+      0.409
+    ],
+    "contains_zero": false
+  },
+  "q2": {
+    "EasyOCR": {
+      "n_original": 40,
+      "n_combined": 160,
+      "mean_original": 0.385,
+      "ci_original": [
+        0.296,
+        0.476
+      ],
+      "width_original": 0.181,
+      "mean_combined": 0.388,
+      "ci_combined": [
+        0.345,
+        0.43
+      ],
+      "width_combined": 0.085,
+      "width_ratio_original_to_combined": 2.13,
+      "theory_ratio_sqrt_n": 2.0
+    },
+    "PaddleOCR": {
+      "n_original": 40,
+      "n_combined": 160,
+      "mean_original": 0.072,
+      "ci_original": [
+        0.058,
+        0.087
+      ],
+      "width_original": 0.03,
+      "mean_combined": 0.062,
+      "ci_combined": [
+        0.055,
+        0.07
+      ],
+      "width_combined": 0.015,
+      "width_ratio_original_to_combined": 2.01,
+      "theory_ratio_sqrt_n": 2.0
+    }
+  },
+  "q3_extended": {
+    "level": 15,
+    "n": 160,
+    "diff_EasyOCR_minus_PaddleOCR": 0.326,
+    "ci95": [
+      0.289,
+      0.367
+    ],
+    "contains_zero": false
+  }
+}
