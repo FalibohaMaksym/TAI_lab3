@@ -1,0 +1,6 @@
+engine,level,path,gt,pred,cer,category
+EasyOCR,15,data/007_saltpepper_15.png,"А мені — чужа сторона,",,1.0,
+EasyOCR,15,data/013_saltpepper_15.png,"що він їй подарував,",,1.0,
+EasyOCR,15,data/023_saltpepper_15.png,"то все хмурніший ходить,",,1.0,
+EasyOCR,15,data/035_saltpepper_15.png,"тут і вмру, моя дитино.",,1.0,
+EasyOCR,15,data/001_saltpepper_15.png,"Он вечеря вже готова ще одколи, а вас нікого нема!","Он венеря Бже тотова ще одколи :: #; 5   ;# вас нікого: нема! ""*;;; ;%:: #;: :; ;;""# # :: ;",0.88,
